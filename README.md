@@ -6,4 +6,4 @@ Kaggle Классификация типов лесов
 https://www.kaggle.com/c/learn-together/overview
 
 Public Score:  0.77506
-Private Score: 0.77471
+<br>Private Score: 0.77471
